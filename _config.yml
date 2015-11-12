@@ -12,12 +12,12 @@ relative_permalinks: true
 title:            CMU Mars Studios
 tagline:          'Spring 2016'
 description:      'Two spring interdisciplinary courses at CMU are investigating the future of space exploration.'
-url:              http://2015.cmumarsstudios.com
+-- url:              http://2015.cmumarsstudios.com
 baseurl:          /marsstudio
 
 author:
   name:           'Daragh Byrne &amp; Christina Christina Ciardullo'
-  url:            https://cmumarsstudios.slack.com
+  url:            http://daraghbyrne.github.io/marsstudio/
 
 email: daragh@daraghbyrne.me
 twitter_username: cmumarsstudios
@@ -29,4 +29,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/daraghbyrne/cmumarsstudios
+  repo:           https://github.com/daraghbyrne/cmumarsstudio
