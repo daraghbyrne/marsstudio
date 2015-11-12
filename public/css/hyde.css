@@ -60,6 +60,14 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  
+  background-image: url( '../images/mars2.jpg' );
+  
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  
+  
 }
 @media (min-width: 48em) {
   .sidebar {
