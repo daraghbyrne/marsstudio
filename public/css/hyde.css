@@ -265,3 +265,84 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+
+
+
+
+footer {
+    padding: 2em 0 0.5em;
+    color: #666;
+    margin-top: 50px;
+	font-size: 16px;
+}
+
+footer .footer-group{
+	width: 24%;
+	display: inline-block;
+	padding: 0 0 0 20px;
+}
+
+footer .footer-double{
+	width: 48%;
+}
+
+footer img.logo {
+    opacity: 1;
+	width: 133px;
+    -moz-transition: all 300ms ease-out;
+    -webkit-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    transition: all 300ms ease-out
+}
+
+footer img.logo:hover {
+    opacity: 0.65
+}
+
+footer h6 {
+	margin: 0;
+	padding: 0;
+    color: #565656
+}
+
+footer h6.strapline {
+    color: #999
+}
+
+footer ul {
+    list-style: none;
+    margin-left: 0rem;
+	padding: 0;
+}
+
+footer ul li {
+    line-height: 2em
+}
+
+footer ul li a{
+    color: #666;
+	
+}
+
+footer ul li a:hover {
+    text-decoration: underline
+}
+
+footer p {
+    xfont-size: 0.85em
+}
+
+footer p a {
+    color: #666;
+    text-decoration: underline
+}
+footer p a:hover {
+    color: #333;
+}
+
+
+footer p.small {
+    xfont-size: 0.85em
+}
