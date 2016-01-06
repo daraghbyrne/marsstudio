@@ -4,11 +4,10 @@ title: Resources
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  These courses will use a bunch of tools and tech to support 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
+As part of this course, you'll be expected to use a couple of tools and technologies to help document your work, collaborate with others in the class 
 There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
