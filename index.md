@@ -4,12 +4,12 @@ title: Home
 ---
 
 
-# NASA projects our putting a human presence on mars by 2050.
+# NASA projects our putting a human presence on mars by 2030.
 
 ![Mars]({{ site.baseurl }}/public/images/mars.jpg)
 <br />
 
-Two spring courses will explore going to Mars from complementary perspectives 
+Two spring courses at Carnegie Mellon will explore going to Mars from complementary perspectives 
 
 * ['Building an Atmosphere']() will lead students in an architectural, structural and material exploration of Mars habitats. 
 
@@ -18,10 +18,27 @@ Two spring courses will explore going to Mars from complementary perspectives
 Both studios will be combined with a common objective - __preparing a prototype for a Martian biome__ to support and maintaining plants for food and oxygen. Together we'll investigate membrane pressure vessels, the physics, geometry, and systems components that may go into the design of an inflatable habitat for the martian surface, capable of supporting, adapting and responding to the plant-life and atmosphere inside.
 
 
+## Objectives
+
+NASA projects a possible human presence on Mars as early as 2030s. Before such an event can happen, we must develop systems capable of sustaining life on the red planet, lightweight and small enough to make the journey and resilient enough to survive without help from home. Many agree that the first step towards proving we can create a sustainable habitat is to design one first for plants. Recognizing that this habitat may not only be a place to survive but thrive and be a beacon and remote connection to and for life on Earth, this design-build seminar challenges students from across campus, from science, engineering, art, and architecture, to come together to develop a concept for an inflatable or deployable habitat creating an atmosphere for Earth life on Mars. 
+
+This course challenges us to design an “air-tight” / “closed loop” / lightweight deployable or inflatable habitat to house plants on Mars, projected within technologies available in 20 years.
 
 ## Course Information
 
 <table>
+	
+  <tr>
+    <td>Responsive Mobile Environments</td>
+    <td>Syllabus</td>
+  </tr>
+
+  <tr>
+    <td>Building An Atmosphere</td>
+    <td>Syllabus</td>
+  </tr>
+	
+	
   <tr>
     <td>Meeting times</td>
     <td>T/F 10:30AM-11:50AM</td>
@@ -47,15 +64,6 @@ Both studios will be combined with a common objective - __preparing a prototype 
     <td>TBC</td>
   </tr>
 
-  <tr>
-    <td>Responsive Mobile Environments</td>
-    <td>Syllabus</td>
-  </tr>
-
-  <tr>
-    <td>Building An Atmosphere</td>
-    <td>Syllabus</td>
-  </tr>
 
 
 </table>
@@ -69,6 +77,7 @@ Both studios will be combined with a common objective - __preparing a prototype 
 
 2. Creative projects should be documented on the [IDeATe Gallery](http://ideate.xsead.cmu.edu/gallery/). This site contains [a guide](/marsstudio/tech/formats/update/2015/11/11/the-ideate-gallery/) to using the gallery. These are due before class/crits. 
 		 	 		
+
 
 ## Tools and Technology
 
