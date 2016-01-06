@@ -11,7 +11,7 @@ categories: tech collaboration
 
 The course is self-motivated, collaborative and interdisciplinary. We're going to generate a lot of ideas and run into challenges (technical and otherwise) that will be important to capture, share and discuss.
 
-The [course slack](https://mars-studio.slack.com/) is a really important component of this and has been set up to give everyone involved have a way to easily connect and communicate. We’re hoping it’s going to be a great resource for everyone in the class, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we've developed a Code of Conduct for everyone using this Slack.
+The [course slack]({{site.slack}}) is a really important component of this and has been set up to give everyone involved have a way to easily connect and communicate. We’re hoping it’s going to be a great resource for everyone in the class, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we've developed a Code of Conduct for everyone using this Slack.
 
 #### Suggested uses
 
@@ -34,13 +34,13 @@ The course Slack has been set up to help everyone involved have a way to connect
 
 We encourage you to talk with other folks in the course through Slack - but you don’t have to use it - and it’s a great way to share resources, discuss and brainstorm together. It’s a really place for all of the students in the studio to find each other and each other's work. To help with this, we’ve created some channels and integrations: 
 
-* [#introductions](https://mars-studio.slack.com/messages/introductions/) - When you join say hi to everyone and let them know why you're in the course and what your background is.
+* [#introductions]({{site.slack}}/messages/introductions/) - When you join say hi to everyone and let them know why you're in the course and what your background is.
 
-* [#events](https://mars-studio.slack.com/messages/events/) - Will automagically add goings-on related the course, but feel free to add other stuff happening on or off campus!
+* [#events]({{site.slack}}/messages/events/) - Will automagically add goings-on related the course, but feel free to add other stuff happening on or off campus!
 
-* [#pleasehelp](https://mars-studio.slack.com/messages/pleasehelp/) - want to find some help? brainstorm a problem? find a collaborator? ask the group
+* [#pleasehelp]({{site.slack}}/messages/pleasehelp/) - want to find some help? brainstorm a problem? find a collaborator? ask the group
 
-* [#open-questions](https://mars-studio.slack.com/messages/open-questions/) - if you've got open questions which need to be address
+* [#open-questions]({{site.slack}}/messages/open-questions/) - if you've got open questions which need to be address
 
 Each of the minor and concentration areas have a channel too in case you want to share or discuss stuff related to them!
 
@@ -50,7 +50,7 @@ New channels can be requested by contacting one of the team admins or owners wit
 
 **@everyone**** ****@channel****, or ****@group**
 
-We have the [#announcements](https://ideatecmu.slack.com/messages/announcements/) channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.
+We have the [#announcements]({{site.slack}}/messages/announcements/) channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.
 
 **Communicating through Slack** (NOTE:  Adapted from https://docs.puppetlabs.com/community/community_guidelines.html )
 
@@ -96,7 +96,7 @@ Failing to follow the community guidelines as described in this document carries
 
 * Daragh Byrne - @daragh
 
-* Kelly Delaney - @cciardullo
+* Christina Ciardullo - @cciardullo
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
