@@ -11,9 +11,9 @@ title: Home
 
 Two spring courses at Carnegie Mellon will explore going to Mars from complementary perspectives 
 
-* ['Building an Atmosphere']() will lead students in an architectural, structural and material exploration of Mars habitats. 
+* ['Building an Atmosphere']({{ site.url }}{{ site.baseurl }}/public/images/BAA_Syllabus.pdf) will lead students in an architectural, structural and material exploration of Mars habitats. 
 
-* ['Responsive Mobile Environments']() will lead students in a technical and embedded systems exploration of Mars habitats.
+* ['Responsive Mobile Environments']({{ site.url }}{{ site.baseurl }}/syllabi/rme) will lead students in a technical and embedded systems exploration of Mars habitats.
 
 Both studios will be combined with a common objective - __preparing a prototype for a Martian biome__ to support and maintaining plants for food and oxygen. Together we'll investigate membrane pressure vessels, the physics, geometry, and systems components that may go into the design of an inflatable habitat for the martian surface, capable of supporting, adapting and responding to the plant-life and atmosphere inside.
 
@@ -30,12 +30,12 @@ This course challenges us to design an “air-tight” / “closed loop” / lig
 	
   <tr>
     <td>Responsive Mobile Environments</td>
-    <td>Syllabus</td>
+    <td><a href="{{ site.url }}{{ site.baseurl }}/syllabi/rme">Syllabus</a></td>
   </tr>
 
   <tr>
     <td>Building An Atmosphere</td>
-    <td>Syllabus</td>
+    <td><a href="{{ site.url }}{{ site.baseurl }}/public/images/BAA_Syllabus.pdf">Syllabus</a></td>
   </tr>
 	
 	

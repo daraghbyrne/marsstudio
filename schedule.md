@@ -173,7 +173,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td></td>
     <td></td>
-    <td>Build / desk crits</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -196,16 +196,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Synthesis Part I</td>
     <td>Synthesis Part I</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+
   <tr>
     <td>9</td>
     <td>Mar-15</td>
@@ -350,7 +341,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>16</td>
     <td>May-3</td>
     <td>Tuesday</td>
-    <td>FINAL REVIEW</td>
+    <td>FINAL REVIEW (TBC)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -367,15 +358,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Opening / Final Review</td>
-    <td></td>
-    <td></td>
-  </tr>
+
 </table>
 
 
