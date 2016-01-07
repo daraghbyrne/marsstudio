@@ -193,7 +193,7 @@ For some of the assignments, students maybe be required to use specific equipmen
 
 ## Lab Fee
 
-A lab fee of $100 will be charged to each student. This will provide each student with a Internet of Things development toolkit. This will be retained by the student on completion of the course as a resource for future projects. 
+A lab fee of $64.25 will be charged to each student. This is used to support facilities access and maintaince. 
 
 ## Data Loss
 
