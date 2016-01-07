@@ -13,7 +13,7 @@ title:            CMU Mars Studios
 tagline:          'Spring 2016'
 description:      'Two spring interdisciplinary courses at CMU are investigating the future of space exploration.'
 -- url:              http://2015.cmumarsstudios.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Daragh Byrne &amp; Christina Christina Ciardullo'
