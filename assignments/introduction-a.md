@@ -40,7 +40,7 @@ Produce a 1-minute video that:
 
 2. Post the video to the [#introductions](https://mars-studio.slack.com/messages/introductions/) channel on slack.
 
-3. We’ll compile the videos into a playlist for the group to be viewed at our first event. 
+3. We’ll compile the videos into a playlist for the group to be viewed at our first extra-curricular event (pizza party!!!). 
 
 
 #### Considerations
