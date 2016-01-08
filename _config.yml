@@ -1,9 +1,12 @@
 # Site settings
 
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
+kramdown:
+  input: GFM
+  
 # Permalinks
 permalink:        pretty
 relative_permalinks: true

@@ -6,7 +6,7 @@ categories: course structure
 ---
 
 <p class="message">
-	tl;dr: A lab fee of $64.25 will be charged. This will provide each student with a Internet of Things development toolkit.
+	tl;dr: A lab fee of $64.25 will be charged. This will provide each student with access to the IDeATe spaces (see below) and to IDeATe equipment lending for projects. 
 </p>
 
 The IDeATe Program is special, because the courses provide relative instruction spanning multiple fields. As a result, IDeATe affiliated Resources, Equipment and Spaces are tailored to support various processes and projects. After completing a Course within the IDeATe@Hunt Facilities, you will become apart of IDeATe@Hunt Community. As an IDeATe@Hunt Member, you will gain access to a Network of Faculty, Facilities, Resources, and like-minded 'Makers'.									

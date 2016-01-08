@@ -42,15 +42,14 @@ We encourage you to talk with other folks in the course through Slack - but you 
 
 * [#open-questions]({{site.slack}}/messages/open-questions/) - if you've got open questions which need to be address
 
-Each of the minor and concentration areas have a channel too in case you want to share or discuss stuff related to them!
-
+There are a few channel in case you want to share or discuss stuff related to other stuff, and new channels can be created on request.
 **Creating New Channels**
 
 New channels can be requested by contacting one of the team admins or owners with the proposed name and topic description. Generally, new channels are only created once a critical mass exists around the topic has been established. Some short term initiatives such as events like open houses, etc., may also warrant a unique channel while relevant. We'll account for those and lean on the voice of the community to judge their need.
 
-**@everyone**** ****@channel****, or ****@group**
+**@everyone**, **@channel**, or **@group**
 
-We have the [#announcements]({{site.slack}}/messages/announcements/) channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.
+We have the [#general](https://designingiot.slack.com/messages/general/) channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.
 
 **Communicating through Slack** (NOTE:  Adapted from https://docs.puppetlabs.com/community/community_guidelines.html )
 
@@ -60,13 +59,13 @@ We want to keep the course slack community awesome, and we need your help to kee
 
 * *Encourage diversity and participation:* Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community.
 
-* *Keep it legal: *Basically, don’t get us in trouble. Share only content that you own, do not share private, or sensitive information, and don’t break the law.
+* *Keep it legal:* Basically, don’t get us in trouble. Share only content that you own, do not share private, or sensitive information, and don’t break the law.
 
 * *Stay on topic:* Make sure that you are posting to the correct online channel and avoid off-topic discussions. Also remember that nobody likes spam.
 
 *See the more detailed code of conduct below.*
 
-####Code of Conduct
+#### Code of Conduct
 
 *This policy is a "living" document, and subject to refinement and expansion in the future. This is based on the Front-end London Slack's Code of Conduct, that nicely explains some common guidelines for Slack Communities*
 

@@ -11,11 +11,18 @@ Below is a basic outline of the activities you’ll engage in as part of this co
 
 The first week will coordinate teams across both courses in building a shared brief and a common understanding of the challenges involved in designing architecture and embedded systems for a Martian habitat. 
 
+Section | Assignments  | Due
+:------------- | :------------- | :-------------
+Both  | [Introductions: Assignment A](/assignments/introduction-a) | Thursday, January 14th, 9pm
+Both  | Introductions: Assignment B | Tuesday, January 19th, 10.30am
+
+
 #### Week 2-7: Design Exploration
 
 We will follow a two-week cycle of design/analysis and prototype fabrication. In interdisciplinary teams, making will inform design, and design will continually be iterated. 
+
  
-####Week 8-9: Synthesis
+#### Week 8-9: Synthesis
 
 The design explorations will lead towards an eventual synthesis of all design team ideas into one full scale proposal which blends architecture and technology interventions. 
 
