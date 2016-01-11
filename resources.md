@@ -19,6 +19,10 @@ There are no required texts for this class. However, below is a list of books, t
 
 * [How We'll Live on Mars](http://books.simonandschuster.com/How-Well-Live-on-Mars/Stephen-Petranek/TED-Books/9781476784762) (Part of TED Books), Stephen Petranek, Simon & Schuster/ TED, July 2015, or [read this excerpt](http://ideas.ted.com/book-excerpt-how-well-live-on-mars/)
 
+* [Spacesuit: Fashioning Apollo](http://www.amazon.com/gp/product/026201520X), Nicholas de Monchaux, The MIT Press, March 2011
+
+* [Air Structures (Form + Technique) ](http://www.laurenceking.com/us/student-books/air-structures-1/), William McLean, Pete Silver, Laurence King Publishing, Sept 2015
+
 * [Sandy Antunes Make Series](http://www.oreilly.com/pub/au/4997) are also useful reference guides for building technical prototypes for extra-planetary systems.
   * DIY Comms and Control for Amateur Space 
   * DIY Instruments for Amateur Space DIY Instruments for Amateur Space 
