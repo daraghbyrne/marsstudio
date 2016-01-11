@@ -21,7 +21,9 @@ There are no required texts for this class. However, below is a list of books, t
 
 * [Spacesuit: Fashioning Apollo](http://www.amazon.com/gp/product/026201520X), Nicholas de Monchaux, The MIT Press, March 2011
 
-* [Air Structures (Form + Technique) ](http://www.laurenceking.com/us/student-books/air-structures-1/), William McLean, Pete Silver, Laurence King Publishing, Sept 2015
+* [Air Structures (Form + Technique) ](http://www.laurenceking.com/us/student-books/air-structures-1/), William McLean and Pete Silver, Laurence King Publishing, Sept 2015
+
+* [Pneumatic Structures: A Handbook of Inflatable Architecture](http://www.amazon.com/Pneumatic-Structures-Handbook-Inflatable-Architecture/dp/0195198956), Thomas Herzog, Laurence King Publishing, April 1976
 
 * [Sandy Antunes Make Series](http://www.oreilly.com/pub/au/4997) are also useful reference guides for building technical prototypes for extra-planetary systems.
   * DIY Comms and Control for Amateur Space 
