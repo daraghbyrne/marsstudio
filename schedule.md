@@ -38,7 +38,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <th></th>
     <th></th>
     <th>Lecture / Discussion Topic</th>
-    <th>Guest</th>
+    <th>Guest(s)</th>
     <th>Collaborative</th>
     <th>Responsive Mobile Environments</th>
     <th>Building an Atmosphere</th>
@@ -60,7 +60,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Intro to Mars/Pressure Vessels/Spacecraft/Greenhouse</td>
     <td></td>
     <td>Assumptions/Challenges</td>
-    <td></td>
+    <td>Intro assignment</td>
     <td>Intro assignment</td>
   </tr>
   <tr>
@@ -68,9 +68,9 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Jan-19</td>
     <td>Tuesday</td>
     <td>The Challenge of Mars</td>
-    <td>D. Turnshek / M.Wood-Vasey</td>
+    <td><a href="http://sff.net/people/diane/">D. Turnshek</a> / M.Wood-Vasey</td>
     <td>Review: Problem Statment</td>
-    <td>Intro to Assignment </td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -81,14 +81,14 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Air Structure Details</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan-26</td>
     <td>Tuesday</td>
     <td>Pressure and Materials / Hard, Soft, Flexible, Foldable</td>
-    <td>I.Oppehiemer / R. Heard</td>
+    <td><a href="https://www.cmu.edu/cee/people/faculty/oppenheim.html">I.Oppehiemer</a> / <a href="http://www.cmu.edu/engineering/materials/people/faculty/bios/heard.html">R. Heard</a></td>
     <td></td>
     <td></td>
     <td>Arch Review 1</td>
@@ -98,17 +98,17 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Jan-29</td>
     <td>Friday</td>
     <td>Air Tight: Building Inflatables/ Inflatable Construction</td>
-    <td>K.Kennedy (remote)</td>
+    <td><a href="https://www.linkedin.com/in/kriss-j-kennedy-91258111">K.Kennedy</a> (remote)</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Build/Desk Crit</td>
+    <td>Build/Desk Crit</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Feb-2</td>
     <td>Tuesday</td>
     <td>Robotics and Agriculture / Sensing Plants</td>
-    <td>G. Kantor / Sprouts IO</td>
+    <td><a href="http://sprouts.io">Sprouts.io</a></td>
     <td></td>
     <td>RME Review 1</td>
     <td></td>
@@ -121,14 +121,14 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Workshop: Rhino/Grasshopper</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Feb-9</td>
     <td>Tuesday</td>
     <td>Working with Mebranes / Dynamic Stuctures</td>
-    <td>C. Madiji / YL Park</td>
+    <td><a href="https://www.cmu.edu/me/people/majidi.html">C. Madiji</a> / <a href="http://www.cs.cmu.edu/~ylpark/">YL Park</a></td>
     <td></td>
     <td></td>
     <td>Arch Review 2</td>
@@ -138,17 +138,17 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Feb-12</td>
     <td>Friday</td>
     <td></td>
-    <td>R. Tursky/Structureflex (remote)</td>
     <td></td>
     <td></td>
     <td></td>
+    <td>Workshop: ANSYS</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Feb-16</td>
     <td>Tuesday</td>
     <td>Closed Loop Systems (MELISSA project)</td>
-    <td>L. Poulet (remote)</td>
+    <td><a href="https://fr.linkedin.com/in/lucie-poulet-35aa8b1a">L. Poulet</a> (remote)</td>
     <td></td>
     <td>RME Review 2</td>
     <td></td>
@@ -157,11 +157,11 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td>Feb-19</td>
     <td>Friday</td>
+    <td><a href="http://soa.cmu.edu/richard-tursky/">R. Tursky</a>/ <a href="http://structurflex.com">Structureflex</a> (remote)</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Build/Desk Crits</td>
+    <td>Build/Desk Crits</td>
   </tr>
   <tr>
     <td>7</td>
@@ -180,15 +180,15 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Build/Desk Crits</td>
+    <td>Build/Desk Crits</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Mar-1</td>
     <td>Tuesday</td>
     <td>Human Interface / Poetics</td>
-    <td>Dan Goods (fly-in) / L. Burgess / Golan</td>
+    <td>D. Goods </td>
     <td></td>
     <td>RME - Review 3</td>
     <td></td>
@@ -208,8 +208,8 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>9</td>
     <td>Mar-15</td>
     <td>Tuesday</td>
-    <td>"Seeing Like a Rover"</td>
-    <td>J. Vertesi (fly-in)</td>
+    <td>Internal Synthesis Crit</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -218,8 +218,8 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td>Mar-18</td>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>MIDREVIEW</td>
+    <td>P.Steif / R. Tursky / S. Lee / L. Burgess / G. Levin</td>
     <td>3 Proprosals</td>
     <td></td>
     <td></td>
@@ -228,8 +228,8 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>10</td>
     <td>Mar-22</td>
     <td>Tuesday</td>
-    <td></td>
-    <td></td>
+    <td>"Seeing Like a Rover"</td>
+    <td>J. Vertesi</td>
     <td>Building out the Program / Details / Material List / Timeline Plan / Assign Roles / Self-Organize</td>
     <td></td>
     <td></td>
@@ -238,8 +238,8 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td></td>
     <td>Mar-25</td>
     <td>Friday</td>
-    <td>MIDREVIEW</td>
-    <td>P.Steif / R. Tursky</td>
+    <td></td>
+    <td></td>
     <td>Synthesis</td>
     <td></td>
     <td></td>
@@ -250,7 +250,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Tuesday</td>
     <td></td>
     <td></td>
-    <td>Coordination</td>
+    <td>Synthesis</td>
     <td></td>
     <td></td>
   </tr>
