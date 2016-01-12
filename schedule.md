@@ -220,7 +220,7 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>Friday</td>
     <td>MIDREVIEW</td>
     <td>P.Steif / R. Tursky / S. Lee / L. Burgess / G. Levin</td>
-    <td>3 Proprosals</td>
+    <td>2 Proprosals presented (digital and physical)</td>
     <td></td>
     <td></td>
   </tr>
