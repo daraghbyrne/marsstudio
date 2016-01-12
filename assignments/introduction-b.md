@@ -75,7 +75,7 @@ Some issues might include:
 
 * materials, components and technical systems suitable for mars
 
-Print or Write these questions out on post-its / cards / pieces of paper. On Tuesday Jan 15 we will share these questions with each other, narrow, and identify which are necessary for further exploration, and separate into project teams with particular focus. 
+Print or Write these questions out on post-its / cards / pieces of paper. On Tuesday Jan 19 we will share these questions with each other, narrow, and identify which are necessary for further exploration, and separate into project teams with particular focus. 
 
 
 **Due: Tuesday, January 19, 10.30am**
