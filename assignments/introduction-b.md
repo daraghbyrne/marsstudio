@@ -86,9 +86,9 @@ Print or Write these questions out on post-its / cards / pieces of paper. On Tue
 
 * List of questions and research topics of interest concerning both:
 
-* *Mars Theoretical Habitat*
+  * *Mars Theoretical Habitat*
 
-* *Earth Analogue Habitat*
+  * *Earth Analogue Habitat*
 
 #### Submitting your work:
 
