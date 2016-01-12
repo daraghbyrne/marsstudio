@@ -14,7 +14,7 @@ The first week will coordinate teams across both courses in building a shared br
 Section | Assignments  | Due
 :------------- | :------------- | :-------------
 Both  | [Introductions: Assignment A](/assignments/introduction-a) | Thursday, January 14th, 9pm
-Both  | Introductions: Assignment B | Tuesday, January 19th, 10.30am
+Both  | [Introductions: Assignment B](/assignments/introduction-b) | Tuesday, January 19th, 10.30am
 
 
 #### Week 2-7: Design Exploration
