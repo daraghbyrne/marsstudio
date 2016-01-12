@@ -47,7 +47,9 @@ The remainder of the semester will be used to build a full-scale physical protot
     <td>1</td>
     <td>Jan-12</td>
     <td>Tuesday</td>
-    <td>Intro to the Class</td>
+    <td>
+		<a href="https://docs.google.com/presentation/d/1Pnf7cd_ak4nIo8y1diWdw5ChoL2HgVYqzFw7PqcVIqI/edit?usp=sharing">Intro to the Class</a>
+	</td>
     <td></td>
     <td>Problem Raising</td>
     <td></td>
