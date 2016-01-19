@@ -21,14 +21,34 @@ Both  | [Introductions: Assignment B](/assignments/introduction-b) | Tuesday, Ja
 
 We will follow a two-week cycle of design/analysis and prototype fabrication. In interdisciplinary teams, making will inform design, and design will continually be iterated. 
 
+Section | Assignments  | Due
+:------------- | :------------- | :-------------
+BAA  | [2A: Pressure Vessels & Material Experimentation](/assignments/baa-2-a) | Tuesday, Jan 26th
+RME  | [2A: Investigation - Tools for Tending](/assignments/rme-2-a) | Tuesday, Feb 2nd
+BAA  | [2B: Interior Partitions & Exterior Connections](/assignments/baa-2-b) | Tuesday, Feb 9th
+RME  | [2B: Spacesuit for Shrubbery](/assignments/rme-2-b) | Tuesday, Feb 16th
+BAA  | [2C: Program, Form & Network](/assignments/baa-2-c) | Tuesday, Feb 23rd
+RME  | [2C: Growth Mediums](/assignments/rme-2-c) | Tuesday, Mar 1st
+
  
 #### Week 8-9: Synthesis
 
 The design explorations will lead towards an eventual synthesis of all design team ideas into one full scale proposal which blends architecture and technology interventions. 
 
+Section | Assignments  | Due
+:------------- | :------------- | :-------------
+Both  | [Synthesize Two Integrated Proposals](/assignments/synthesis) | Friday, March 18th
+
+
 #### Weeks 10-15: Construction
 
 The remainder of the semester will be used to build a full-scale physical prototype for deployment at CMU.  The organization of schedules, build time, and delegation of tasks will be accomplished by the student teams.
+
+Section | Assignments  | Due
+:------------- | :------------- | :-------------
+Both  | [Prototype Construction](/assignments/construction) | Friday, May 3rd
+Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May 3rd
+
 
 ## Detailed Schedule
 

@@ -436,3 +436,51 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+figure{
+	margin-top: 2em;
+}
+
+figure figcaption, figure figcaption p{
+	
+	color: #999;
+	font-style: italic;
+	text-align: center;
+	margin: 0;
+	margin-bottom: 1em;
+	font-size: 0.85em;
+}
+
+figure figcaption a, figure figcaption p a{
+	
+	color: #878787;
+	text-decoration: underline;
+}
+
+figure figcaption a:hover, figure figcaption p a:hover{
+	
+	color: #666;
+	text-decoration: underline;
+}
+
+
+div.small, div.small img{
+		max-width: 200px !important;
+}
+
+div.medium, div.medium img{
+		max-width: 325px !important;
+}
+div.left{
+	float: left;
+}
+
+div.right{
+	float: right;
+}
+
+div.margined{
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+}
