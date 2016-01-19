@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# NASA projects our putting a human presence on mars by 2030.
+# NASA projects are putting a human presence on mars by 2030.
 
 ![Mars]({{ site.baseurl }}/public/images/mars.jpg)
 <br />
