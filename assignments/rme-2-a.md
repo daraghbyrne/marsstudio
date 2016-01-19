@@ -3,6 +3,12 @@ layout: subpage
 title: "2A (RME): Investigation - Tools for Tending"
 ---
 
+
+<p class="message">
+	tl;dr: Develop a speculative / conceptual design for a martian garden and propose a series of ‘tools’ that will be used to tend our Martian garden.
+</p>
+
+
 {% include figure.html src="../images/rme-2-1/image_0.jpg" caption="Chromolithographs published circa 1888. Butterflies and Moths. WF Kirby British Museum." class="" %}
 
 

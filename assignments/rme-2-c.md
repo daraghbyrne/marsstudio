@@ -3,6 +3,11 @@ layout: subpage
 title: "2C (RME) Investigation - Growth Mediums"
 ---
 
+<p class="message">
+	tl;dr: Examine the opportunities for public engagement with the remote Martian garden and propose an poetic gesture for the mission. Demonstrate the idea with a prototype.
+</p>
+
+
 {% include figure.html src="../images/rme-2-3/image_0.jpg" caption="A telematic experience of Mars. Microsoft's HoloLens used to ‘view’ the Martian surface. Credit: NASA/JPL-Caltech" class="" %}
 
 ## Introduction

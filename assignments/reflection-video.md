@@ -29,7 +29,7 @@ Talk about what's next for you and for Mars exploration.
 
 1. Upload your video to Vimeo (**hard requirement**)
 
-2. Post the video to the [#introductions](https://mars-studio.slack.com/messages/introductions/) channel on slack.
+2. Post the video to the [#reflections](https://mars-studio.slack.com/messages/reflections/) channel on slack.
 
 3. We’ll compile the videos into a playlist for the group to be viewed together.
 

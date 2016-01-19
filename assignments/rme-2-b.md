@@ -3,6 +3,13 @@ layout: subpage
 title: "2B (RME): Investigation - Spacesuits for Shrubbery"
 ---
 
+
+<p class="message">
+	tl;dr: Design a small-scale analog of a closed-loop Martian greenhouse using a sealable pressure vessel. You'll be provided with materials and technologies. Prepare a working prototype.
+</p>
+
+
+
 {% include figure.html src="../images/rme-2-2/image_0.jpg" caption="" class="" %}
 
 ## Introduction
