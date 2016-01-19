@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# NASA projects our putting a human presence on mars by 2030.
+# NASA projects are putting a human presence on mars by 2030.
 
 ![Mars]({{ site.baseurl }}/public/images/mars.jpg)
 <br />
@@ -45,7 +45,7 @@ This course challenges us to design an “air-tight” / “closed loop” / lig
   </tr>
   <tr>
     <td>Locations</td>
-    <td>CF214 (T) and HL A10 (F)</td>
+    <td>CFA214 (T) and HL A10 (F)</td>
   </tr>
 
   <tr>
@@ -60,7 +60,7 @@ This course challenges us to design an “air-tight” / “closed loop” / lig
     <td>-</td>
   </tr>
   <tr>
-    <td>Office Hours:</td>
+    <td>Office Hours</td>
     <td>TBC</td>
   </tr>
 
