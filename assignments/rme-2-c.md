@@ -101,7 +101,7 @@ Develop at least one working prototype that demonstrates the idea.
 
 * A digital presentation of your design work (3 minutes maximum)
 
-* A working prototype of a closed-loop ‘spacesuit’ to sense conditions, adapt growth and maintain plants. 
+* A working prototype of a poetic gesture to inspire and involve 'Earthlings' in our Martian garden
 
 Final deliverables to be presented at the Crit/Review
 
