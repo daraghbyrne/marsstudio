@@ -79,7 +79,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Jan-15</td>
     <td>Friday</td>
-    <td>Intro to Mars/Pressure Vessels/Spacecraft/Greenhouse</td>
+    <td><a href="https://docs.google.com/presentation/d/1OcrrxKxKA1gqoCLBSKmX_DhTUzJftA30M1uBIkhmryY/edit?usp=sharing">Intro to Mars/Pressure Vessels/Spacecraft/Greenhouse</a></td>
     <td></td>
     <td>Assumptions/Challenges</td>
     <td>Intro assignment</td>
@@ -89,8 +89,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>2</td>
     <td>Jan-19</td>
     <td>Tuesday</td>
-    <td>The Challenge of Mars</td>
-    <td><a href="http://sff.net/people/diane/">D. Turnshek</a> / M.Wood-Vasey</td>
+    <td><a href="https://docs.google.com/presentation/d/1T1HZIq4QCvv8HbYsjkMVf9wu_vCULil80v5kLNLXYno/edit?usp=sharing">The Challenge of Mars</a></td>
+    <td><a href="http://www.phyast.pitt.edu/~wmwv/">M.Wood-Vasey</a> and Markus Scheucher </td>
     <td>Review: Problem Statment</td>
     <td></td>
     <td></td>
@@ -99,8 +99,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Jan-22</td>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>Interdisciplinary Mars at JPL (35min+10min Q&A)</td>
+    <td>B.Sherwood (NASA)</td>
     <td></td>
     <td></td>
     <td>Air Structure Details</td>
@@ -109,8 +109,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>3</td>
     <td>Jan-26</td>
     <td>Tuesday</td>
-    <td>Pressure and Materials / Hard, Soft, Flexible, Foldable</td>
-    <td><a href="https://www.cmu.edu/cee/people/faculty/oppenheim.html">I.Oppehiemer</a> / <a href="http://www.cmu.edu/engineering/materials/people/faculty/bios/heard.html">R. Heard</a></td>
+    <td>Pressure and Materials  (25min+10min Q&A)</td>
+    <td><a href="https://www.cmu.edu/cee/people/faculty/oppenheim.html">I.Oppehiemer</a> &amp; <a href="http://www.cmu.edu/engineering/materials/people/faculty/bios/heard.html">R. Heard</a> &amp; <a href="http://www.cs.cmu.edu/~ylpark/">YL Park</a></td>
     <td></td>
     <td></td>
     <td>Arch Review 1</td>
@@ -119,8 +119,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Jan-29</td>
     <td>Friday</td>
-    <td>Air Tight: Building Inflatables/ Inflatable Construction</td>
-    <td><a href="https://www.linkedin.com/in/kriss-j-kennedy-91258111">K.Kennedy</a> (remote)</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td>Build/Desk Crit</td>
     <td>Build/Desk Crit</td>
@@ -130,7 +130,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>Feb-2</td>
     <td>Tuesday</td>
     <td>Robotics and Agriculture / Sensing Plants</td>
-    <td><a href="http://sprouts.io">Sprouts.io</a></td>
+    <td><a href="http://sprouts.io">Sprouts.io</a> &amp; George Kantor</td>
     <td></td>
     <td>RME Review 1</td>
     <td></td>
@@ -139,8 +139,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Feb-5</td>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>Inflatable Fabrication (Structturfelex) (35min)</td>
+    <td><a href="http://soa.cmu.edu/richard-tursky/">R. Tursky</a>/ <a href="http://structurflex.com">Structureflex</a> (remote)</td>
     <td></td>
     <td></td>
     <td>Workshop: Rhino/Grasshopper</td>
@@ -150,7 +150,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>Feb-9</td>
     <td>Tuesday</td>
     <td>Working with Mebranes / Dynamic Stuctures</td>
-    <td><a href="https://www.cmu.edu/me/people/majidi.html">C. Madiji</a> / <a href="http://www.cs.cmu.edu/~ylpark/">YL Park</a></td>
+    <td><a href="https://www.cmu.edu/me/people/majidi.html">C. Madiji</a> &amp; <a href="http://joshbard.com">Josh Bard</a></td>
     <td></td>
     <td></td>
     <td>Arch Review 2</td>
@@ -159,8 +159,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Feb-12</td>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>Air Tight: Building Inflatables/ Inflatable Construction</td>
+    <td><a href="https://www.linkedin.com/in/kriss-j-kennedy-91258111">K.Kennedy</a> (remote)</td>
     <td></td>
     <td></td>
     <td>Workshop: ANSYS</td>
@@ -179,7 +179,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td>Feb-19</td>
     <td>Friday</td>
-    <td><a href="http://soa.cmu.edu/richard-tursky/">R. Tursky</a>/ <a href="http://structurflex.com">Structureflex</a> (remote)</td>
+    <td></td>
     <td></td>
     <td></td>
     <td>Build/Desk Crits</td>
@@ -190,7 +190,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>Feb-23</td>
     <td>Tuesday</td>
     <td>Systems Thinking</td>
-    <td>D. Wettergreen / S. Lee</td>
+    <td><a href="http://www.ri.cmu.edu/person.html?person_id=638">D. Wettergreen</a> &amp; <a href="http://soa.cmu.edu/stephen-lee/">S. Lee</a></td>
     <td></td>
     <td></td>
     <td>Arch Review 3</td>
@@ -209,13 +209,8 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td>8</td>
     <td>Mar-1</td>
     <td>Tuesday</td>
-<<<<<<< Local Changes
     <td>Human Interface / Poetics (25 min+10 Q&A)</td>
-    <td>D. Goods</td>
-=======
-    <td>Human Interface / Poetics</td>
     <td>D. Goods </td>
->>>>>>> External Changes
     <td></td>
     <td>RME - Review 3</td>
     <td></td>
@@ -394,5 +389,3 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
   <tr>
 
 </table>
-
-
