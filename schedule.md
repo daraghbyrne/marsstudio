@@ -123,7 +123,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td></td>
     <td></td>
     <td>Build/Desk Crit</td>
-    <td>Build/Desk Crit</td>
+    <td>Build/Desk Crit; Workshop: Rhino/Grasshopper</td>
   </tr>
   <tr>
     <td>4</td>
@@ -143,7 +143,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td><a href="http://soa.cmu.edu/richard-tursky/">R. Tursky</a>/ <a href="http://structurflex.com">Structureflex</a> (remote)</td>
     <td></td>
     <td></td>
-    <td>Workshop: Rhino/Grasshopper</td>
+    <td>Build/Desk Crit; Workshop: ANSYS</td>
   </tr>
   <tr>
     <td>5</td>
@@ -163,7 +163,7 @@ Both  | [3 minute Reflection Video](/assignments/reflection-video) | Friday, May
     <td><a href="https://www.linkedin.com/in/kriss-j-kennedy-91258111">K.Kennedy</a> (remote)</td>
     <td></td>
     <td></td>
-    <td>Workshop: ANSYS</td>
+    <td></td>
   </tr>
   <tr>
     <td>6</td>
