@@ -288,6 +288,10 @@ footer .footer-double{
 	width: 48%;
 }
 
+footer .footer-full{
+	width: 100%;
+}
+
 footer img.logo {
     opacity: 1;
 	width: 133px;
