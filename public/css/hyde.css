@@ -350,3 +350,8 @@ footer p a:hover {
 footer p.small {
     xfont-size: 0.85em
 }
+
+table.top-aligned, table.top-aligned td{
+	
+	vertical-align:top;
+}
