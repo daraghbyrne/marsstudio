@@ -8,8 +8,31 @@ title: "2A (RME): Investigation - Tools for Tending"
 	tl;dr: Develop a speculative / conceptual design for a martian garden and propose a series of ‘tools’ that will be used to tend our Martian garden.
 </p>
 
+#### Due: Friday 29th January
 
-{% include figure.html src="../images/rme-2-1/image_0.jpg" caption="Chromolithographs published circa 1888. Butterflies and Moths. WF Kirby British Museum." class="" %}
+#### Submit Documentation: [IDeATe Gallery Pool - Tools For Tending](http://ideate.xsead.cmu.edu/gallery/pools/rme-2a-investigation-tools-for-tending)
+
+#### Digital Presentation to: [RME Review 2A Slidedeck](https://docs.google.com/presentation/d/1pdZOSBpWr90CmJW29qeZvVsVwh2XO25IlZzHoN3kR3w/edit?usp=sharing)
+
+----
+
+## Milestones: 
+
+* 9pm Thursday 21st Jan 2016 - Precedents Research Due
+
+* 10.30 am Friday 22nd Jan 2016 - Brainstorming exercise (in-class)
+
+* 10.30 am Tuesday, 26th Jan 2016 - Proposals Due
+
+* 10.30 am Friday 29th Jan 2016 - Desk crit / Build; 1st-cut design/prototype due
+
+* 10.30 am, Tuesday, 2nd Feb 2016- Crit/Review of outcomes 
+
+* 10.00 pm, Tuesday, 2nd Feb 2016- Digital Documentation Due
+
+
+
+{% include figure.html src="../images/rme-2-1/image_0.jpg" caption="Chromolithographs published circa 1888. Butterflies and Moths. WF Kirby British Museum." class="medium right" %}
 
 
 ## Overview
@@ -66,21 +89,6 @@ Unusual approaches, left-of-center thinking and impracticality is encouraged!
 
 {% include figure.html src="../images/rme-2-1/image_3.jpg" caption="NASA concept art for stacked gardens on Mars. Credit: NASA." class="" %}
 
-
-## Milestones: 
-
-* 9pm Thursday 21st Jan 2016 - Precedents Research Due
-
-* 10.30 am Friday 22nd Jan 2016 - Brainstorming exercise (in-class)
-
-* 10.30 am Tuesday, 26th Jan 2016 - Proposals Due
-
-* 10.30 am Friday 29th Jan 2016 - Desk crit / Build; 1st-cut design/prototype due
-
-* 10.30 am, Tuesday, 2nd Feb 2016- Crit/Review of outcomes 
-
-* 10.00 pm, Tuesday, 2nd Feb 2016- Digital Documentation Due
-
 ## Deliverables: 
 
 * A speculative proposal / conceptual design
@@ -90,6 +98,7 @@ Unusual approaches, left-of-center thinking and impracticality is encouraged!
 * A working prototype of one ‘tool’ (robotic/technology analog) for tending the Martian garden 
 
 __Final deliverables to be presented at the Crit/Review__
+
 
 ## Process: 
 

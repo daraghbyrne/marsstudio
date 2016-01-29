@@ -8,6 +8,29 @@ title: "2B (RME): Investigation - Spacesuits for Shrubbery"
 	tl;dr: Design a small-scale analog of a closed-loop Martian greenhouse using a sealable pressure vessel. You'll be provided with materials and technologies. Prepare a working prototype.
 </p>
 
+#### Due: Friday 29th January
+
+#### Submit Documentation: [IDeATe Gallery Pool - Spacesuits for Shrubbery](http://ideate.xsead.cmu.edu/gallery/pools/rme-2b-investigation-spacesuits-for-shrubbery)
+
+#### Digital Presentation to: [RME Review 2B Slidedeck ](https://docs.google.com/presentation/d/14OeSgJdKHw3_QvD5trqZqu7FUEIZ-9eIAhBrSK3GGNQ/edit?usp=sharing)
+
+----
+
+## Milestones: 
+
+* 9pm Thursday 4th Feb 2016 - Precedents Research Due (individual)
+
+* 10.30 am Friday 5th Feb 2016 - Brainstorming exercise (in-class)
+
+* 10.30 am Tuesday, 9th Feb 2016 - System Proposals Due
+
+* 10.30 am Friday 12th Feb 2016 - Desk crit / Build; 1st-cut design/prototype due
+
+* 10.30 am, Tuesday, 16th Feb Feb 2016- Crit/Review of outcomes 
+
+* 10.00 pm, Tuesday, 16th Feb 2016- Digital Documentation Due
+
+
 
 
 {% include figure.html src="../images/rme-2-2/image_0.jpg" caption="" class="" %}
@@ -87,20 +110,6 @@ Design and present a small scale analog for our Martian biome. You’ll be given
 The only requirement is to sustain the plants and aside from that you can do anything you like! e.g.   you can adapt the vessel/structure, build in additional proposals/ideas, modify the pressure vessel (e.g. from transparent to non-transparent), make it mobile, etc. etc. 
 
 
-
-## Milestones: 
-
-* 9pm Thursday 4th Feb 2016 - Precedents Research Due (individual)
-
-* 10.30 am Friday 5th Feb 2016 - Brainstorming exercise (in-class)
-
-* 10.30 am Tuesday, 9th Feb 2016 - System Proposals Due
-
-* 10.30 am Friday 12th Feb 2016 - Desk crit / Build; 1st-cut design/prototype due
-
-* 10.30 am, Tuesday, 16th Feb Feb 2016- Crit/Review of outcomes 
-
-* 10.00 pm, Tuesday, 16th Feb 2016- Digital Documentation Due
 
 ## Deliverables: 
 
