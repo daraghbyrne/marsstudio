@@ -7,8 +7,35 @@ title: "2C (RME) Investigation - Growth Mediums"
 	tl;dr: Examine the opportunities for public engagement with the remote Martian garden and propose an poetic gesture for the mission. Demonstrate the idea with a prototype.
 </p>
 
-
 {% include figure.html src="../images/rme-2-3/image_0.jpg" caption="A telematic experience of Mars. Microsoft's HoloLens used to ‘view’ the Martian surface. Credit: NASA/JPL-Caltech" class="" %}
+
+----
+
+
+#### Due: Friday 29th January
+
+#### Submit Documentation: [IDeATe Gallery Pool - Growth Mediums](http://ideate.xsead.cmu.edu/gallery/pools/rme-2c-investigation-growth-mediums)
+
+#### Digital Presentation to: [RME Review 2C Slidedeck](https://docs.google.com/presentation/d/18gS6Z80jDGEIDmTMxPG9HTKc2n-qFoOT9COXEsN_xaI/edit?usp=sharing)
+
+
+----
+
+## Milestones:
+
+* 9pm Thursday 18th Feb 2016 - Precedents Research Due
+
+* 10.30 am Friday 19nd Feb 2016 - Brainstorming exercise (in-class)
+
+* 10.30 am Tuesday, 23th Feb 2016 - Proposals Due
+
+* 10.30 am Friday 26th Feb 2016 - Desk crit / Build; 1st-cut design/prototype due
+
+* 10.30 am, Tuesday, 1st Mar 2016- Crit/Review of outcomes 
+
+* 10.00 pm, Tuesday, 1st Mar 2016- Digital Documentation Due
+
+
 
 ## Introduction
 
@@ -80,19 +107,6 @@ The proposal should consider how the window (18-24 month timeframe) before human
 
 Develop at least one working prototype that demonstrates the idea. 
 
-## Milestones:
-
-* 9pm Thursday 18th Feb 2016 - Precedents Research Due
-
-* 10.30 am Friday 19nd Feb 2016 - Brainstorming exercise (in-class)
-
-* 10.30 am Tuesday, 23th Feb 2016 - Proposals Due
-
-* 10.30 am Friday 26th Feb 2016 - Desk crit / Build; 1st-cut design/prototype due
-
-* 10.30 am, Tuesday, 1st Mar 2016- Crit/Review of outcomes 
-
-* 10.00 pm, Tuesday, 1st Mar 2016- Digital Documentation Due
 
 
 ## Deliverables: 

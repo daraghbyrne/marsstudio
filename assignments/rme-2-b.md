@@ -8,6 +8,8 @@ title: "2B (RME): Investigation - Spacesuits for Shrubbery"
 	tl;dr: Design a small-scale analog of a closed-loop Martian greenhouse using a sealable pressure vessel. You'll be provided with materials and technologies. Prepare a working prototype.
 </p>
 
+----
+
 #### Due: Friday 29th January
 
 #### Submit Documentation: [IDeATe Gallery Pool - Spacesuits for Shrubbery](http://ideate.xsead.cmu.edu/gallery/pools/rme-2b-investigation-spacesuits-for-shrubbery)
@@ -15,6 +17,9 @@ title: "2B (RME): Investigation - Spacesuits for Shrubbery"
 #### Digital Presentation to: [RME Review 2B Slidedeck ](https://docs.google.com/presentation/d/14OeSgJdKHw3_QvD5trqZqu7FUEIZ-9eIAhBrSK3GGNQ/edit?usp=sharing)
 
 ----
+
+{% include figure.html src="../images/rme-2-2/image_0.jpg" caption="" class="" %}
+
 
 ## Milestones: 
 
@@ -33,7 +38,6 @@ title: "2B (RME): Investigation - Spacesuits for Shrubbery"
 
 
 
-{% include figure.html src="../images/rme-2-2/image_0.jpg" caption="" class="" %}
 
 ## Introduction
 
